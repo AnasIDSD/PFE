@@ -1,0 +1,2 @@
+use EMNIST by class from EMNIST collection
+https://www.kaggle.com/crawford/emnist
